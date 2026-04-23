@@ -1,0 +1,1 @@
+(self.webpackChunk_0test=self.webpackChunk_0test||[]).push([[142],{403(e){e.exports=function(e,s){const t=document.querySelector(".alert");t.classList.add(e?"alert-success":"alert-danger"),t.innerHTML=s,t.classList.add("show"),setTimeout(()=>{t.classList.remove(e?"alert-success":"alert-danger"),t.innerHTML="",t.classList.remove("show")},2e3)}}}]);
